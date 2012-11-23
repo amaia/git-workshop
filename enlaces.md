@@ -3,3 +3,5 @@
 [try git](http://try.github.com)
 
 [google](https://www.google.es/)
+
+[un modelo de ramas git flow](http://nvie.com/posts/a-successful-git-branching-model/)
